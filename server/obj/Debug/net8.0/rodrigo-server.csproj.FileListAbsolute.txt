@@ -155,3 +155,4 @@ D:\VscodeFiles\DESAFIOS\rodrigo-desafio-plusoft\server\obj\Debug\net8.0\refint\r
 D:\VscodeFiles\DESAFIOS\rodrigo-desafio-plusoft\server\obj\Debug\net8.0\rodrigo-server.pdb
 D:\VscodeFiles\DESAFIOS\rodrigo-desafio-plusoft\server\obj\Debug\net8.0\rodrigo-server.genruntimeconfig.cache
 D:\VscodeFiles\DESAFIOS\rodrigo-desafio-plusoft\server\obj\Debug\net8.0\ref\rodrigo-server.dll
+D:\VscodeFiles\DESAFIOS\rodrigo-desafio-plusoft\server\obj\Debug\net8.0\rodrigo-server.sourcelink.json

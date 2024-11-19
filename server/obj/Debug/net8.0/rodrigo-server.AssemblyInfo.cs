@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rodrigo-server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae0924b09b34376326fbcc6f1e51a56318e979b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("rodrigo-server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rodrigo-server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
