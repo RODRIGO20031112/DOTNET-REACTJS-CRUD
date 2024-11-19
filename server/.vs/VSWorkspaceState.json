@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\modules",
+    "\\src\\modules\\broker",
+    "\\src\\modules\\broker\\infra",
+    "\\src\\modules\\broker\\infra\\http"
+  ],
+  "SelectedNode": "\\ezze-microservico-fatura-protegida.sln",
+  "PreviewInSolutionExplorer": false
+}

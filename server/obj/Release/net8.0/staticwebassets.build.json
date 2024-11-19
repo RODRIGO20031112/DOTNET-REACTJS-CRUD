@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZBllZwnjL4wJJx0nmY7ttflxqPXXzXRxHlbLUflb1+k=",
+  "Source": "rodrigo-server",
+  "BasePath": "_content/rodrigo-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
