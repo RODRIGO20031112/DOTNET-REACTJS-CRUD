@@ -2,7 +2,7 @@ version: '3'
 
 services:
   ezze_microservice_base:
-    image: ezze_microservice_base
+    image: rodrigo_server
     build:
       context: .
     ports:
